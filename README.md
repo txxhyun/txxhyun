@@ -1,6 +1,9 @@
-### Hi there 👋
+### Data 👋
 
-<!--
+Grade: Junior
+Major: ICT(Media technology) @ college of computing
+Email: starbth@hanyang.ac.kr
+<!-- 
 **txxhyun/txxhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
