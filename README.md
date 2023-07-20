@@ -1,19 +1,10 @@
-### Data 👋
+### Hi, I'm Tae Hyun, Baek 👋
 
-Grade: Junior
-Major: ICT(Media technology) @ college of computing
-Email: starbth@hanyang.ac.kr
-<!-- 
-**txxhyun/txxhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Grade: Junior
+- Major: ICT(Media technology) @ college of computing
+- Email: starbth@hanyang.ac.kr
 
-Here are some ideas to get you started:
+### 📚 Skills Available
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-007396?style=for-the-badge&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/R-007396?style=for-the-badge&logo=R&logoColor=white">
+
